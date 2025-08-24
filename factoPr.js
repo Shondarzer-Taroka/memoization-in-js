@@ -18,4 +18,5 @@ function memoizedFactorial() {
 let memoFactorial=memoizedFactorial()
 console.log(memoFactorial(5));
 console.log(memoFactorial(5));
+
 console.log(memoFactorial(6));
