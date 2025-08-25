@@ -20,3 +20,4 @@ console.log(memoFactorial(5));
 console.log(memoFactorial(5));
 
 console.log(memoFactorial(6));
+console.log(memoFactorial(9));
